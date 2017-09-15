@@ -1,0 +1,127 @@
+
+	body{
+    margin: 50px;
+	}
+.wrapper {
+    font-family: 'Open Sans', sans-serif;
+    width: 700px;
+    font-size: 14px;
+    border-collapse: collapse;
+    text-align: center;
+}
+.list:first-child {
+    color: black;
+    text-align: left;
+    text-align: justify;
+}
+.title, .list {
+    border: 1px solid grey;
+    padding: 10px 15px;
+    width: 600px;
+}
+
+.wrap {
+	padding: 15px;
+	text-align: left;
+	background-color: #E1E3E0;
+	width: 500px;
+	height: 215px;
+}
+.tb {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	width: 500px;
+	border-collapse: collapse;
+	padding: 12px;
+	font-size: 12px;
+}
+.title1 {
+	width: 200px;
+    font-size: 12px;
+    font-weight: bold;
+    border-bottom: 2px solid grey;
+	padding: 12px;
+}
+.text1{
+    padding: 12px;
+    border-bottom: none;
+}
+
+
+ .title2, .text2 {
+	width: 200px;
+	border-bottom: 2px solid grey;
+	padding: 12px;
+}
+ .title2 {
+	font-weight: bold;
+}
+
+.choice, .del {
+	display: inline-block;
+  	padding: 5px 10px;
+  	background: red;
+  	position: relative;
+  	color: white;
+  	font-weight: bold;
+  	text-decoration: none;
+}
+.button, .button-1 {
+	width: 20px;
+	padding: 8px 1px;
+}
+.non-border, .button-1 {
+	border-bottom: none;
+}
+
+.price1 {
+	background: #F4EEF6;
+	text-align: left;
+	border-radius: 10px;
+	padding: 15px;
+	box-shadow: 0 0 8px 4px #B9B9B9;
+	width: 700px;
+	height: 300px;
+}
+.price1, th, td {
+	border-bottom: 1px solid #C6C6C6;
+	padding: 10px;
+}
+.nontex {
+	border-bottom: none;
+}
+.tex3, .tex4, .tex5  {
+	font-weight: bold;
+	border-bottom: none;
+}
+.tex4 {
+	color: #888888;
+}
+.basket {
+	border-bottom: none;
+	color: red;
+	font-style: italic;
+	font-weight: bold;
+	text-decoration: none;
+}
+.tex5 {
+	text-align: center;
+}
+.block {
+	display: inline-block;
+	position: relative;
+}
+.close-block {
+	position: absolute;
+	top: -8px;
+	right: -8px;
+	width: 23px;
+	border: 2px solid white;
+	background-color: black;
+	color: white;
+	font-weight: bold;
+	font-family: Arial;
+	font-size: 21px;
+	border-radius: 60%;
+	box-shadow: 0 0 2px 2px #888888; 
+	text-align: center;
+}
